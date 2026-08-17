@@ -24,10 +24,10 @@ int main()
 
 	for (int i = 0; i < aSize; ++i)
 	{ 
-		std::cout << "enter values 1 to " << aSize << " Value " << i + 1 << ":";
+		std::cout << "enter values " << i+1 << " to " << aSize << " Value :";
 		std::cin >> myArray[i];
 	}
-
+	// What is a dangling pointer? Its a pointer that help?
 	// ouput to screen min, max, avg 
 	// ?? why do min and max need pointer to  array...   and avg does not?  
 	// the reason is that min and max are functions that take iterators (pointers) to the beginning and end of the array, 
