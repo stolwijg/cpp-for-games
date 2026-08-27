@@ -10,5 +10,6 @@
   <Project Path="D:/udemy/cpp for games/Hello world2/Hello world2.vcxproj" Id="d5535bd5-6d22-42e4-aa6f-a9b191315e79" />
   <Project Path="D:/udemy/cpp for games/integrals/integrals.vcxproj" Id="509acafb-5b18-4b75-8d37-805e8a625cb9" />
   <Project Path="DynamicArray/DynamicArray.vcxproj" Id="f4f5501f-d0cb-4ee0-8495-c3fc87bbe23c" />
+  <Project Path="Enhanced Calculator/Enhanced Calculator.vcxproj" Id="2b96b526-95fd-4d0c-9331-25aa461af5bb" />
   <Project Path="pointers/pointers.vcxproj" Id="f703a61a-407b-4938-b064-9c821a9d5985" />
 </Solution>
